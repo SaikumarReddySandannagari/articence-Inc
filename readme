@@ -1,0 +1,9 @@
+Steps to Run:
+1) Open terminal 
+2) Go to project/articence
+3) npm install
+4) node app.js
+5) Go to Frontend
+6) npm install
+7) npm start
+ 
